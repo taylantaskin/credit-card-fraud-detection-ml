@@ -57,8 +57,7 @@ The notebook follows a complete 17-step machine learning workflow:
 
 3. Open the notebook:
    ```bash
-   jupyter notebook notebook.ipynb
-   ```
+jupyter notebook hsd-veri-bilimi-ve-makine-renmesi.ipynb   ```
    (or open it directly on Kaggle/Google Colab)
 
 4. Run all cells in order. The dataset file should be placed in the same directory as the 
@@ -92,6 +91,6 @@ improve results further.
 
 ## Files in this Repository
 
-- `notebook.ipynb` — main Jupyter notebook with the full pipeline
+- `hsd-veri-bilimi-ve-makine-renmesi.ipynb` — main Jupyter notebook with the full pipeline
 - `requirements.txt` — Python libraries needed to run the notebook
 - `README.md` — this file
