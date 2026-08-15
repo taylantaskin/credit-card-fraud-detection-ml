@@ -57,9 +57,7 @@ The notebook follows a complete 17-step machine learning workflow:
 
 3. Open the notebook:
    ```bash
-jupyter notebook hsd-veri-bilimi-ve-makine-renmesi.ipynb   ```
-   [(or open it directly on Kaggle/Google Colab)](https://www.kaggle.com/code/taylantakn/hsd-veri-bilimi-ve-makine-renmesi)
-
+   jupyter notebook hsd-veri-bilimi-ve-makine-renmesi.ipynb
 4. Run all cells in order. The dataset file should be placed in the same directory as the 
    notebook, or update the `file_path` variable at the top of Step 2 to point to your local 
    copy of the CSV file.
