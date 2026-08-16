@@ -89,6 +89,9 @@ improve results further.
 
 ## Files in this Repository
 
-- `hsd-veri-bilimi-ve-makine-renmesi.ipynb` — main Jupyter notebook with the full pipeline
-- `requirements.txt` — Python libraries needed to run the notebook
-- `README.md` — this file
+## 📂 Repository Structure
+
+* `hsd-veri-bilimi-ve-makine-renmesi.ipynb` — The main Jupyter Notebook containing the full machine learning pipeline.
+* `requirements.txt` — Python libraries required to run the notebook locally.
+* `README.md` — This documentation file.
+* 🌐 **[Live Kaggle Notebook](https://www.kaggle.com/code/taylantakn/hsd-veri-bilimi-ve-makine-renmesi)** — Click here to view, run, and interact with the code directly in your browser.
